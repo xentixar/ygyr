@@ -10,3 +10,6 @@
 [submodule "ygyr-scraper"]
 	path = ygyr-scraper
 	url = git@github.com:leyuskckiran1510/ygyr-scraper.git
+[submodule "YGYR-frontend"]
+	path = YGYR-frontend
+	url = git@github.com:Sadnesh/YGYR-frontend.git
