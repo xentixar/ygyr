@@ -7,3 +7,6 @@
 [submodule "ygyr-ml"]
 	path = ygyr-ml
 	url = git@github.com:kali-37/ygyr-ml.git
+[submodule "ygyr-scraper"]
+	path = ygyr-scraper
+	url = git@github.com:leyuskckiran1510/ygyr-scraper.git
