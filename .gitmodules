@@ -1,0 +1,3 @@
+[submodule "ygyr-server"]
+	path = ygyr-server
+	url = git@github.com:xentixar/ygyr-server.git
