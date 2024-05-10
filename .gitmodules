@@ -1,3 +1,6 @@
 [submodule "ygyr-server"]
 	path = ygyr-server
 	url = git@github.com:xentixar/ygyr-server.git
+[submodule "ygyr-app"]
+	path = ygyr-app
+	url = git@github.com:sabinmhx/ygyr-app.git
