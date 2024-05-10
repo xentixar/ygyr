@@ -4,3 +4,6 @@
 [submodule "ygyr-app"]
 	path = ygyr-app
 	url = git@github.com:sabinmhx/ygyr-app.git
+[submodule "ygyr-ml"]
+	path = ygyr-ml
+	url = git@github.com:kali-37/ygyr-ml.git
