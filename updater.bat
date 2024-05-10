@@ -2,10 +2,10 @@ set -x
 
 git submodule update --init --remote --recursive
 
-if [[ -n $? ]];then
+if [[ $? -eq 0 ]];then
     git commit -a -m "update submodules $(date +%T)"
 
-    if [[ -n $? ]];then
+    if [[ $? -eq 0 ]];then
         git push origin main
     fi
 fi
